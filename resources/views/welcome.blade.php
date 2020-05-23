@@ -118,7 +118,7 @@
 
                 <div class="links">
                     <a href="./send-mail" class="button">
-                        Send a Test Mail
+                        Send a Sample Mail
                     </a>
                 </div>
              </div>
